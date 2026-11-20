@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (
+// WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "KBD TOP UP";
+var website_name = "YASIN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
