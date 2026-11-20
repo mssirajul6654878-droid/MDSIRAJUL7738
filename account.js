@@ -6,7 +6,7 @@ var website_name = "KND TOP UP";
 // =======================================================
 //https://t.me/dkfahim55
 // =======================================================
-var telegram_channel_link = "https://t.me/dkfahim55";
+var telegram_channel_link = "https://t.me/fahimtopup";
 
 // =======================================================
 // TELEGRAM GROUP LINK
